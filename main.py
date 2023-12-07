@@ -34,7 +34,6 @@ def menu():
         print("Inputan yang anda masukkan salah!")
         backToMenu()
 
-
 def backToMenu():
     clearScreen()
     input("\nTekan enter untuk kembali ke menu awal")
